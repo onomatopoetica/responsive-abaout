@@ -1,3 +1,4 @@
+/* eslint-disable */
 <template>
   <div class="about-card">
     <div class="card-title">
@@ -15,17 +16,19 @@
 </template>
 
 <style lang="sass" scoped>
-.about-card
+
+.about-card 
   min-height: calc(100vh - 150px)
   background: #333
   padding: 3em
   border-radius: 10px
   color: white
+  font-family: Arial, Helvetica, sans-serif
 
   .card-title
     display: flex
     align-items: center
-    background: #222
+    background: #000
     border-radius: 10px
 
     .avatar
