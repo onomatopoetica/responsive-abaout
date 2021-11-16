@@ -1,4 +1,3 @@
-/* eslint-disable */
 <template>
   <div class="about-card">
     <div class="card-title">
